@@ -10,8 +10,6 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin)](https://in.linkedin.com/in/harshit-parikh-68157417b)&nbsp;
 
 
-<img align="right" alt="GIF" src="https://github.com/Moquent/Moquent/blob/main/coding.gif?raw=true" width="500" height="300" />
-
 Languages and Tools:
 
 <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code>
@@ -41,7 +39,7 @@ The tools, editors and operating systems I use for my works
 
 
 
-<img align="left" alt="Elkay's Github Stats" src="https://github-readme-stats.vercel.app/api?username=harshitparikh1&show_icons=true&hide_border=true" />
+<img align="left" alt="Harshit's Github Stats" src="https://github-readme-stats.vercel.app/api?username=harshitparikh1&show_icons=true&hide_border=true" />
 
 
 <!--
