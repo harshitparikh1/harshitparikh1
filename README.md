@@ -10,7 +10,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin)](https://in.linkedin.com/in/harshit-parikh-68157417b)&nbsp;
 
 
-Languages and Tools:
+Programming Languages:
 
 <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code>
@@ -27,7 +27,7 @@ Languages and Tools:
 
 
 
-The tools, editors and operating systems I use for my works
+The tools, editors and operating systems which I use:
 
 <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg"></code>
