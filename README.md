@@ -1,4 +1,8 @@
-### Hi there, this is Harshit 👋
+![name](https://github.com/harshitparikh1/harshitparikh1/blob/main/name.gif)
+
+# Hi there ![wave](https://github.com/harshitparikh1/harshitparikh1/blob/main/wave.gif)
+
+![](https://visitor-badge.glitch.me/badge?page_id=harshitparikh1.harshitparikh1)
 
 ## I'm a Developer, Learner and a music lover! ##
 
@@ -9,9 +13,13 @@
 - 💼 My previous internships and projects have not only enabled to learn new things but also helped me to solve real world problems.
 - ⚡ Fun fact: I love to play chess and watch thriller movies/series
 
+<img align="right" alt="GIF" src="https://github.com/harshitparikh1/harshitparikh1/blob/main/code_from_home.gif?raw=true" width="250" height="320" />
+
+
 ### Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin)](https://in.linkedin.com/in/harshit-parikh-68157417b)&nbsp;
+
 
 
 Programming Languages:
@@ -27,6 +35,7 @@ Programming Languages:
 <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"></code>
+
 
 
 
