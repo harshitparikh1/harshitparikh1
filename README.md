@@ -1,6 +1,6 @@
 ![name](https://github.com/harshitparikh1/harshitparikh1/blob/main/name.gif)
 
-# Hi there ![wave](https://github.com/harshitparikh1/harshitparikh1/blob/main/wave.gif)
+# Hi there! ![wave](https://github.com/harshitparikh1/harshitparikh1/blob/main/wave.gif)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=harshitparikh1.harshitparikh1)
 
