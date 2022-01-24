@@ -3,6 +3,11 @@
 ## I'm a Developer, Learner and a music lover! ##
 
 - 🔭 I’m currently working as a Data Analyst!
+- 🧩 I love to solve problems and learn new technologies.
+- 🤖 I have a research paper published in the domain of Deep Learning.
+- ⌨️ I love to code and innovate new things.
+- 💼 My previous internships and projects have not only enabled to learn new things but also helped me to solve real world problems.
+- 
 - ⚡ Fun fact: I love to play chess and watch thriller movies/series
 
 ### Connect with me:
