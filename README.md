@@ -2,8 +2,11 @@
 
 # Hi there! ![wave](https://github.com/harshitparikh1/harshitparikh1/blob/main/wave.gif)
 
-![](https://visitor-badge.glitch.me/badge?page_id=harshitparikh1.harshitparikh1)
+**Visitors Count**  
+![VisitorCount](https://profile-counter.glitch.me/%7Bharshitparikh1%7D/count.svg)
 
+<!-- ![](https://visitor-badge.glitch.me/badge?page_id=harshitparikh1.harshitparikh1)
+ -->
 ## I'm a Developer, Learner and a music lover! ##
 
 - 🔭 I’m currently working as a Data Analyst!
